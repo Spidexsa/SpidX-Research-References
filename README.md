@@ -36,5 +36,5 @@ This repository contains all the foundational research papers, standards, and me
 
 ---
 ## Authors & Contributors
-* **Jana Alsufyani** **Abrar Albaqami** - *Computer Engineering Graduate*
+* **Jana Alsufyani**, **Abrar Albaqami** - *Computer Engineering Graduate*
 * **Spidex Development Team** - *Taif University*
